@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Auritro03
+- 👋 Hey, It's @Auritro03
 - 👀 I’m interested in softwares mainly
 - 🌱 I’m currently learning web building
 - 💞️ I’m looking to collaborate on ...
