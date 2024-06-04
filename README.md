@@ -3,9 +3,9 @@
 
 # My Profiles
 
-- [:fallen_leaf: Profile 1](www.linkedin.com/in/oritro-bin-islam-b88330270)
-- [:fallen_leaf: Profile 2]([https://example.com/profile2](https://x.com/oritro42))
-- [:fallen_leaf: Profile 3]([https://example.com/profile3](https://www.instagram.com/_____neurotic__/))
+- [:fallen_leaf: linkedin 1](www.linkedin.com/in/oritro-bin-islam-b88330270)
+- [:fallen_leaf: x 2]([https://example.com/profile2](https://x.com/oritro42))
+- [:fallen_leaf: instagram 3]([https://example.com/profile3](https://www.instagram.com/_____neurotic__/))
 - [:fallen_leaf: Profile 4](https://example.com/profile4)
 - [:fallen_leaf: Profile 5](https://example.com/profile5)
 
