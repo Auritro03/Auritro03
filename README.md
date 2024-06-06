@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Auritro</h1>
+<h1 align="center">Hey, it's me Oritro</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 # My Profiles
